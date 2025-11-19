@@ -1,0 +1,10 @@
+package com.example.carritodorado.ui.pantallas
+
+import androidx.compose.runtime.Composable
+import androidx.navigation.NavController
+
+@Composable
+
+fun PantallaLogin(navController: NavController){
+    
+}
