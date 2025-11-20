@@ -1,2 +1,2 @@
-%% APP CARRITO DORADO
-Proyecto para ingenieria de software
+** APP CARRITO DORADO
+* Proyecto para ingenieria de software
