@@ -2,5 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    
+<!--    Color barra nav-->
     <color name="blueHome">#2196F3</color>
+    
+    
+<!--Colores carrito dorado-->
+    <color name="buttons">#DDBD70</color>
+    <color name="rosaTotal">#FFB6E9</color>
+    <color name="backgCards">#69000000</color>
+
 </resources>
