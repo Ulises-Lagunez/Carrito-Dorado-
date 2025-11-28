@@ -11,6 +11,6 @@
 <!--Colores carrito dorado-->
     <color name="buttons">#DDBD70</color>
     <color name="rosaTotal">#FFB6E9</color>
-    <color name="backgCards">#69000000</color>
+    <color name="backgCards">#33000000</color>
 
 </resources>
